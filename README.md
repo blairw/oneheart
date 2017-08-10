@@ -16,6 +16,10 @@ To edit this document, download [GitHub Desktop](https://desktop.github.com/), c
 - ![#BE1F2E](https://placehold.it/15/BE1F2E/000000?text=+) `#BE1F2E` - **OneHeart red**, as identified by Josh Wyatt
 - ![#B53389](https://placehold.it/15/B53389/000000?text=+) `#B53389` - **Fandango purple**, for URLs on the website - deliberately avoiding pure blue and pure purple to avoid invoking the 1990s "new vs visited" colour-coding
 - ![#8BCC4F](https://placehold.it/15/8BCC4F/000000?text=+) `#8BCC4F ` - **Majors Bay green**, colour-picked out of a photo of OneHeart people standing in front of a patch of grass; good for Call-to-Action URL where the background photo has a lawn or other vegetation in it; symbolises growth
+- ![#E37644](https://placehold.it/15/E37644/000000?text=+) `#E37644` - **Connect Card orange**, as extracted from `movecard4.pdf`
+- ![#42A0B8](https://placehold.it/15/42A0B8/000000?text=+) `#42A0B8` - **Connect Card blue**, as extracted from `connectcardOL_V4_UCA Fix.pdf`
+- ![#D2D3D4](https://placehold.it/15/D2D3D4/000000?text=+) `#D2D3D4` - **Connect Card grey**, sourced same as above
+
 
 
 ## Typography
