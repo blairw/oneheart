@@ -44,6 +44,8 @@ The **OneHeart monogram logo** is typeset in [Montserrat](https://fonts.google.c
 <span class="oneheart_logo_one">ONE</span><span class="oneheart_logo_heart">HEART</span>
 ```
 
+Hoefler & Co's [**Gotham**](https://www.typography.com/fonts/gotham/overview/) is visually very similar to Montserrat but should not be used as it is not freely licensed; Montserrat should be used for consistency.
+
 ### Source Sans Pro
 
 Since Montserrat is already distinctly used for the logo, it is best to avoid it for body copy text and even headings. **[Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)** is a good alternative since it was used by OneHeart in previous years and so would represent a sense of continuity for anyone who has been on the journey with us. Other advantages:
