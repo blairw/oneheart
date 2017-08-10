@@ -64,35 +64,43 @@ This is currently used on ProPresenter 6 for the lyric design. Advantages:
 
 ## Images
 
+### Square OneHeart logo
+
+A square logo is useful for platforms like Instagram and Facebook where a square-shaped (or circle-shaped) avatar is required.
+
+The OneHeart "(1)" logo has been discontinued and should no longer be used. While we are in the process of producing a suitable successor, the *Vision to Action* image is a worthy interim solution, available on the NAS at path `/DESIGN/DATA/LOGO/ONEHEART LOGO/170714 VISION TO ACTION/`.
+
 ### Uniting Church logo
 
-The Uniting Church in Queensland has hosted a very helpful `favicon` stack for the Uniting Church logo. It is hosted in Amazon's AWS cloud so presumably it is ideal for hotlinking:
+- Wikipedia hosts an awesome [SVG version](https://en.wikipedia.org/wiki/Uniting_Church_in_Australia#/media/File:UCA-logo.svg) of the logo that can be rendered at whatever-sized PNG is required :D
 
-```html
-<link rel="apple-touch-icon" sizes="57x57" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-180x180.png">
-<link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/android-chrome-192x192.png" sizes="192x192">
-<link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/favicon-96x96.png" sizes="96x96">
-<link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/favicon-16x16.png" sizes="16x16">
-<link rel="manifest" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/manifest.json">
-<link rel="shortcut icon" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/favicon.ico">
+- PSD and EPS files are available on the NAS at path `/DESIGN/DATA/LOGO/UCA/`.
+
+- A PDF file of the Uniting Church logo nicely attached to the OneHeart monogram is available on the NAS at path `/DESIGN/DATA/LOGO/ONEHEART LOGO/170510 NO SYMBOL/`.
+
+- For website work, the Uniting Church in Queensland has hosted a very helpful `favicon` stack for the Uniting Church logo. It is hosted in Amazon's AWS cloud so presumably it is ideal for hotlinking:
+
+	```html
+	<link rel="apple-touch-icon" sizes="57x57" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/android-chrome-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/manifest.json">
+	<link rel="shortcut icon" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/favicon.ico">
 ```
 
 ### One Voice logo
 
 This can be obtained from the NAS at path `/DESIGN/DATA/GRAPHIC DESIGNS/ONEVOICE/`.
-
-### OneHeart "(1)" logo
-
-This logo has been discontinued and should no longer be used.
 
 ## Writing style
 
