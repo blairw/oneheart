@@ -4,6 +4,8 @@
 
 This *git* repository represents a top-line summary of all OneHeart tech work stored on github.com. It's also a basic style guide / cheatsheet for developers (e.g. colour palette).
 
+To edit this document, download [GitHub Desktop](https://desktop.github.com/), clone this repository, and edit `README.md` with a Markdown editor (e.g. [MacDown](https://macdown.uranusjr.com/)). Then you can push back into the repository - you may need to contact Blair for write-access.
+
 ## Repository list
 
 - [**oneheartchurch**](https://github.com/blairw/oneheartchurch) - public website
@@ -22,7 +24,7 @@ This *git* repository represents a top-line summary of all OneHeart tech work st
 
 #### Montserrat
 
-The **OneHeart logo** is typeset in [Montserrat](https://fonts.google.com/specimen/Montserrat). It can be produced in pure HTML and CSS using the Google Fonts API, importing weights for 300 and 700 (no italics required unless needed for other stuff on the same page):
+The **OneHeart monogram logo** is typeset in [Montserrat](https://fonts.google.com/specimen/Montserrat). It can be produced in pure HTML and CSS using the Google Fonts API, importing weights for 300 and 700 (no italics required unless needed for other stuff on the same page):
 
 ```html
 <style>
@@ -38,7 +40,6 @@ The **OneHeart logo** is typeset in [Montserrat](https://fonts.google.com/specim
 </style>
 
 <span class="oneheart_logo_one">ONE</span><span class="oneheart_logo_heart">HEART</span>
-
 ```
 
 #### Source Sans Pro
@@ -57,3 +58,41 @@ This is currently used on ProPresenter 6 for the lyric design. Advantages:
 - Helvetica is the pinnicle of Swiss International Style and widely recognised as a "professional" and "clean" look
 - Narrow shape helps fit more lyrics on screen
 - Available on Mac OS only, but this is not a problem at our church :)
+
+
+### Images
+
+#### Uniting Church logo
+
+The Uniting Church in Queensland has hosted a very helpful `favicon` stack for the Uniting Church logo. It is hosted in Amazon's AWS cloud so presumably it is ideal for hotlinking:
+
+```html
+<link rel="apple-touch-icon" sizes="57x57" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/manifest.json">
+<link rel="shortcut icon" href="https://s3-ap-southeast-2.amazonaws.com/ucaqld-resources-web/favicons/uca/favicon.ico">
+```
+
+#### One Voice logo
+
+This can be obtained from the NAS at path `/DESIGN/DATA/GRAPHIC DESIGNS/ONEVOICE/`.
+
+#### OneHeart "(1)" logo
+
+This logo has been discontinued and should no longer be used.
+
+### Writing style
+
+- The name **OneHeart** should always be written with capital "O" and capital "H", with no spacing (i.e. not <s>oneHeart</s> or <s>Oneheart</s> or <s>One Heart</s>)
+- OneHeart should not be referred to as a Pentecostal church or a Charismatic church
