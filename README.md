@@ -30,7 +30,7 @@ The **OneHeart logo** is typeset in [Montserrat](https://fonts.google.com/specim
 	}
 </style>
 
-<span class="oneheart_logo_one>ONE</span><span style="font-weight: 700">HEART</span>
+<span class="oneheart_logo_one">ONE</span><span class="oneheart_logo_heart">HEART</span>
 
 ```
 
