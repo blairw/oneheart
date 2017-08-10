@@ -11,6 +11,13 @@ This *git* repository represents a top-line summary of all OneHeart tech work st
 
 ## Style cheatsheet
 
+### Colour palette
+
+- ![#BE1F2E](https://placehold.it/15/BE1F2E/000000?text=+) `#BE1F2E` - **OneHeart red**, as identified by Josh Wyatt
+- ![#B53389](https://placehold.it/15/B53389/000000?text=+) `#B53389` - **Fandango purple**, for URLs on the website - deliberately avoiding pure blue and pure purple to avoid invoking the 1990s "new vs visited" colour-coding
+- ![#8BCC4F](https://placehold.it/15/8BCC4F/000000?text=+) `#8BCC4F ` - **Majors Bay green**, colour-picked out of a photo of OneHeart people standing in front of a patch of grass; good for Call-to-Action URL where the background photo has a lawn or other vegetation in it; symbolises growth
+
+
 ### Typography
 
 #### Montserrat
@@ -50,10 +57,3 @@ This is currently used on ProPresenter 6 for the lyric design. Advantages:
 - Helvetica is the pinnicle of Swiss International Style and widely recognised as a "professional" and "clean" look
 - Narrow shape helps fit more lyrics on screen
 - Available on Mac OS only, but this is not a problem at our church :)
-
-
-### Colour palette
-
-- ![#BE1F2E](https://placehold.it/15/BE1F2E/000000?text=+) `#BE1F2E` - **OneHeart red**, as identified by Josh Wyatt
-- ![#B53389](https://placehold.it/15/B53389/000000?text=+) `#B53389` - **Fandango purple**, for URLs on the website - deliberately avoiding pure blue and pure purple to avoid invoking the 1990s "new vs visited" colour-coding
-- ![#8BCC4F](https://placehold.it/15/8BCC4F/000000?text=+) `#8BCC4F ` - **Majors Bay green**, colour-picked out of a photo of OneHeart people standing in front of a patch of grass; good for Call-to-Action URL where the background photo has a lawn or other vegetation in it; symbolises growth
